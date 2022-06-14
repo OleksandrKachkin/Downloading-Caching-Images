@@ -7,7 +7,7 @@
 
 import UIKit
 
-let accessKey = "bbc33cc9f86e189e1387e31a57dbd74a2dba4a5f4540f7a0dbcb599fd72f61f2"
+let accessKey = "znKhQntZ-Po_gB4oi4MfHqhenhpKI4j9HUyeyAk8Zow"
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {

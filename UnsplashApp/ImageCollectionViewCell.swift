@@ -14,7 +14,7 @@ class ImageCollectionViewCell: UICollectionViewCell {
   @IBOutlet weak var badgeImageView: UIImageView!
   
     
-//  var representedIdentifier: String = ""
+  var representedIdentifier: String = ""
   
   var title: String? {
     didSet {
